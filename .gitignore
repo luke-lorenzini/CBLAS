@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/CBLAS/v16
+/CBLAS/CBLAS.vcxproj.user
+/CBLAS/CBLAS.vcxproj.filters
+/CBLAS/CBLAS.vcxproj
+/.vs
+/CBLAS/Debug
+/Debug
